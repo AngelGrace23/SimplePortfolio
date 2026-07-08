@@ -108,6 +108,7 @@ h2{
     border-radius:18px;
     box-shadow:0 16px 35px rgba(148, 68, 107, 0.1);
     overflow:hidden;
+    align-items: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
